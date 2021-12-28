@@ -1,0 +1,8 @@
+body {
+  background: lightgray!important;
+}
+
+.incomming, .list-group, #empty {
+  max-width: 900px;
+  margin: auto;
+}
